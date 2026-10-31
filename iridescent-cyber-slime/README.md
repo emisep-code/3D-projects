@@ -1,13 +1,21 @@
 <html>
+  
 <img src="iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif">
-</html>
 
-https://github.com/emisep-code/3D-projects/blob/main/iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif?raw=true
+</html>
 
 # Iridescent Cyber Slime
 
+<html>
+  
 <img src="iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif">
+
+</html>
 
 This is a procedural material made in Blender.
 
+<html>
+  
 <img src="iridescent-cyber-slime/sample-images/IridescentCyberSlime_Large.gif">
+
+</html>
