@@ -1,4 +1,6 @@
+<html>
 <img src="iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif">
+</html>
 
 ![test] (iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif)
 
