@@ -2,7 +2,7 @@
 <img src="iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif">
 </html>
 
-![test] (iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif)
+https://github.com/emisep-code/3D-projects/blob/main/iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif?raw=true
 
 # Iridescent Cyber Slime
 
