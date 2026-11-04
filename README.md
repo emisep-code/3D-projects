@@ -30,6 +30,8 @@ Here is where I will be uploading 3D material assets made in Blender. Mostly, th
 
 <img src="https://github.com/emisep-code/3D-projects/blob/2aa13af626e52949d7c0615350837ca4b28cb4d9/clear-water/sample-images/cycles-denoised/ClearWater_Small_Cycles_Denoised.gif" alt="Clear Water rendered on denoised Cycles, size small.">
 
+<img src="https://github.com/emisep-code/3D-projects/blob/8bd82fe7a1853ee9694ac7ed1a9e84020461e1d6/iridescent-cyber-slime/sample-images/IridescentCyberSlime_Small.gif" alt="Iridescent Cyber Slime rendered on Cycles, size small.">
+
 </div>
 
 
