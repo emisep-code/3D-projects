@@ -16,6 +16,8 @@
 
 <img src="https://github.com/emisep-code/3D-projects/blob/cae6d29390f068964faae64d41c03420d1d042a9/clear-water/sample-images/cycles/ClearWater_Small_Cycles.gif">
 
+<img src="https://github.com/emisep-code/3D-projects/blob/764fa13b6cf651a5bb78e7a9bcf18c713c2770c1/clear-water/sample-images/cycles-denoised/ClearWater_Small_Cycles_Denoised.gif">
+
 <h1>
 
 Clear Water
@@ -30,13 +32,11 @@ This is a procedural texture made in Blender. It's nice, clear, regular water. P
   
 </p>
 
-<img src="https://github.com/emisep-code/3D-projects/blob/d250435b414bb29a879c326829f9a024bdbaf0a2/clear-water/sample-images/eevee/ClearWater_Large_EEVEE.gif">
-
-<img src="https://github.com/emisep-code/3D-projects/blob/cae6d29390f068964faae64d41c03420d1d042a9/clear-water/sample-images/cycles/ClearWater_Large_Cycles.gif">
-
 <img src="https://github.com/emisep-code/3D-projects/blob/d250435b414bb29a879c326829f9a024bdbaf0a2/clear-water/sample-images/eevee/ClearWater_Medium_EEVEE.gif">
 
 <img src="https://github.com/emisep-code/3D-projects/blob/cae6d29390f068964faae64d41c03420d1d042a9/clear-water/sample-images/cycles/ClearWater_Medium_Cycles.gif">
+
+<img src="https://github.com/emisep-code/3D-projects/blob/764fa13b6cf651a5bb78e7a9bcf18c713c2770c1/clear-water/sample-images/cycles-denoised/ClearWater_Medium_Cycles_Denoised.gif">
 
 </body>
 
