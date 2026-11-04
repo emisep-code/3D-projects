@@ -20,8 +20,6 @@ Clear Water
   
 </h1>
 
-<img src="https://github.com/emisep-code/3D-projects/blob/d250435b414bb29a879c326829f9a024bdbaf0a2/clear-water/sample-images/eevee/ClearWater_Medium_EEVEE.gif">
-
 </div>
 
 <p>
@@ -31,6 +29,8 @@ This is a procedural texture made in Blender. It's nice, clear, regular water. P
 </p>
 
 <img src="https://github.com/emisep-code/3D-projects/blob/d250435b414bb29a879c326829f9a024bdbaf0a2/clear-water/sample-images/eevee/ClearWater_Large_EEVEE.gif">
+
+<img src="https://github.com/emisep-code/3D-projects/blob/d250435b414bb29a879c326829f9a024bdbaf0a2/clear-water/sample-images/eevee/ClearWater_Medium_EEVEE.gif">
 
 </body>
 
